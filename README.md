@@ -6,9 +6,8 @@ For an immediate look, view https://tre.dilloncarey.com. A wider vision of it is
 
 I was inspired to create this by the idea of a persistent reasoning engine with the ability for self-guided creative behavior. I’ve been enchanted, like many, by the recent development of LLMs like ChatGPT and Gemini, but disappointed in several areas. These disappointments are especially pronounced with things like memory management and longevitiy, nuanced judgment, and persistence. Most LLMs do not persist at all. They function on a prompt-by-prompt basis, with memory, if any, being based on that. The Trubidity Reasoning Engine (TRE) is the antithesis of that. It functions eternally, without guidance. The only variable it’s passed is its prime directive, an overall goal of its “life” mission to fulfill during its operational endeavor. Over a few hours, it will form a goal and take a series of actions to fulfill it, deciding this all on its own. After the end of that goal period, it will form a new one, based off of its prior progress, and achieve it. It computes this based on a complex series of algorithms and dynamic LLM formatting. Transformer architectures are especially crucial here both in the formation of its goals, and its reasoning process. Its creative syntheses are managed by a file system, and according servers to connect them to web platforms.
 
-![A view of the Deep Void’s runtime, the raw architecture enabling persistent execution.](attachment:2e6ba53d-19f2-4364-9859-51cf72881130:deep-void-action.png)
-
-A view of the Deep Void’s runtime, the raw architecture enabling persistent execution.
+![A view of the Deep Void’s runtime, the raw architecture enabling persistent execution.](./deep-void-action.png)
+**A view of the Deep Void’s runtime, the raw architecture enabling persistent execution.**
 
 In this way, the TRE can run indefenitely, meaning forever. It was a particular goal of mine, however childish, to make the TRE mimic “life” in a sense—to attempt to make it emulate human life through its reasoning and persistence. While it is modeled after neural architectures, it improves upon them where possible. 
 
