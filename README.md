@@ -1,4 +1,4 @@
-# Trubidity-Reasoning-Engine
+# Trubidity Reasoning Engine
 A persistent, high-level, adaptive reasoning machine capable of creative tasks and, crucially, generating its own goals autonomously and indefinitely.
 This is the Trubidity Reasoning Engine. It is a persistent, high-level, adaptive reasoning machine capable of creative tasks and, crucially, generating its own goals autonomously and indefinitely. The engine takes a prime directive and a duration and runs in pursuit of that prime directive. It has a multi-step intelligence process replete with dynamic reasoning. This means that it forms goals in pursuit of that prime directive over hours, days, and weeks and achieves them at each step, all without user guidance. The model is furthmore capable of persistent generative tasks during this. It can be instructed to creatively generate code, reports, or similar documents at each step, and will do so autonomously. The Trubidity Reasoning Engine is also capable of manipulating web content itself, meaning that it can design websites persistently and autonomusly based off of its findings by pushing this creative content to it.
 
